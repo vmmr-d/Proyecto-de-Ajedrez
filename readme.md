@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-ChessAI Pro es una aplicación de análisis de ajedrez basada en inteligencia artificial que permite a los usuarios analizar partidas, predecir resultados y recibir recomendaciones estratégicas. La aplicación utiliza modelos de aprendizaje automático para evaluar posiciones, identificar movimientos críticos y proporcionar análisis tácticos personalizados.
+Aplicación de análisis de ajedrez basada en inteligencia artificial que permite a los usuarios analizar partidas, predecir resultados y recibir recomendaciones estratégicas. La aplicación utiliza modelos de aprendizaje automático para evaluar posiciones, identificar movimientos críticos y proporcionar análisis tácticos personalizados.
 
 ## Características Principales
 
