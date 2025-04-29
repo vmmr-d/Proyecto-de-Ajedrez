@@ -18,7 +18,6 @@ from datetime import datetime
 import plotly.graph_objects as go
 import logging  # Added for logging errors
 
-# --- WARNING: Ensure 'modules.py' does NOT execute Streamlit commands on import ---
 try:
     from modules import (
         load_data,
